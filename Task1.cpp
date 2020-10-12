@@ -4,6 +4,7 @@
  *      must be latitude, longitude, speed
  *      assumes coordinates are recorded in decimal degrees
  *  ///TODO: find same way to  convert other forms of recording degrees into decimal degrees
+ *      Special Characters for example
  *
  *  outputs values to console
  *
